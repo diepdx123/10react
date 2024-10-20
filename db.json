@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "wwww",
+      "price": 5555,
+      "description": "22222",
+      "image": "2222",
+      "id": 5
+    },
+    {
+      "name": "them san pham1",
+      "price": 1,
+      "description": "them san pham1",
+      "image": "athem san pham1",
+      "id": 6
+    },
+    {
+      "name": "thémanpham2",
+      "price": 1,
+      "description": "thémanpham2",
+      "image": "thémanpham2",
+      "id": 7
+    },
+    {
+      "name": "aaaa",
+      "price": 3,
+      "description": "aa",
+      "image": "aaaa",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$7gAbXvJ6ruXVyXBRCpDJMe27IUNHUr46m9wt/T.5y.fmAF7WpiHBO",
+      "comfirmPassword": "a@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "diep@gmail.com",
+      "password": "$2a$10$ZzkGnWxxdG5Lq9JFAoJxLOfY4Up3uTc4svhdAiM7hgH0jafwUy/Cm",
+      "comfirmPassword": "diep@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "d@gmail.com",
+      "password": "$2a$10$m989jpr/B84mbnLD1YxZKeSZkBweUeAglfzqsvhj4rHEj3ORa.Uui",
+      "comfirmPassword": "d@gmail.com",
+      "id": 3
+    }
+  ]
+}
